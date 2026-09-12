@@ -1,1 +1,1 @@
-FFmeg
+FFmpeg
